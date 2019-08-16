@@ -1,0 +1,10 @@
+Package: com.lingjye.tweakdemo
+Name: TweakDemo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: lingjye@lingjye.com
+Author: lingjye
+Section: Tweaks
+Version: 0.0.1-13+debug
+Installed-Size: 136
