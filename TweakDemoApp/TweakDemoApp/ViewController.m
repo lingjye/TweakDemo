@@ -27,9 +27,7 @@
 }
 
 - (void)clickButton {
-    NSString *title = [[UIDevice currentDevice] systemVersion];
-    self.titleLabel.text = title;
-    
+    self.titleLabel.text = @"Hook";
 }
 
 @end
